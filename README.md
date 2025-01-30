@@ -1,30 +1,26 @@
-# Data Project Template
+# Introduction
 
-<a target="_blank" href="https://datalumina.com/">
-    <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Datalumina Project" />
-</a>
+This repository contains examples and tutorials on how to build AI systems.
 
-## Cookiecutter Data Science
-This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit the needs of Datalumina and made available as a GitHub template.
+## About Me
 
-## Adjusting .gitignore
+Hi! I'm Dave, AI Engineer and founder of Datalumina®. On my [YouTube channel](https://www.youtube.com/@daveebbelaar), I share practical tutorials that teach developers how to build AI systems that actually work in the real world. Beyond these tutorials, I also help people start successful freelancing careers. Check out the links below to learn more!
 
-Ensure you adjust the `.gitignore` file according to your project needs. For example, since this is a template, the `/data/` folder is commented out and data will not be exlucded from source control:
+### Explore More Resources
 
-```plaintext
-# exclude data from source control by default
-# /data/
-```
+Whether you're a learner, a freelancer, or a business looking for AI expertise, we've got something for you:
 
-Typically, you want to exclude this folder if it contains either sensitive data that you do not want to add to version control or large files.
+1. **Learning Python for AI and Data Science?**  
+   Join our **free community, Data Alchemy**, where you’ll find resources, tutorials, and support:  
+   [▶︎ Data Alchemy on Skool](https://www.skool.com/data-alchemy)
 
-## Duplicating the .env File
-To set up your environment variables, you need to duplicate the `.env.example` file and rename it to `.env`. You can do this manually or using the following terminal command:
+2. **Ready to start or scale your freelancing career?**  
+   Learn how to land clients and grow your business with the **Data Freelancer program**:  
+   [▶︎ Data Freelancer](https://www.datalumina.com/data-freelancer)
 
-```bash
-cp .env.example .env # Linux, macOS, Git Bash, WSL
-copy .env.example .env # Windows Command Prompt
-```
+3. **Need expert help on your next project?**  
+   Work with me and my team to solve your data and AI challenges:  
+   [▶︎ Consulting Services](https://www.datalumina.com/solutions)
 
 This command creates a copy of `.env.example` and names it `.env`, allowing you to configure your environment variables specific to your setup.
 
@@ -77,3 +73,6 @@ This command creates a copy of `.env.example` and names it `.env`, allowing you 
 ```
 
 --------
+4. **Building AI-powered applications?**  
+   Access the **GenAI Launchpad** to accelerate your AI app development:  
+   [▶︎ GenAI Launchpad](https://launchpad.datalumina.com/)
