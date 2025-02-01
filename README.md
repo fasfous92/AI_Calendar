@@ -12,15 +12,16 @@ Whether you're a learner, a freelancer, or a business looking for AI expertise, 
 
 1. **Learning Python for AI and Data Science?**  
    Join our **free community, Data Alchemy**, where you’ll find resources, tutorials, and support:  
-   [▶︎ Learn Python for AI](https://www.skool.com/data-alchemy)
+   ▶︎ [Learn Python for AI](https://www.skool.com/data-alchemy)
 
 2. **Ready to start or scale your freelancing career?**  
    Learn how to land clients and grow your business with
-   [▶︎ Start freelancing](https://www.datalumina.com/data-freelancer)
+   ▶︎ [Start freelancing](https://www.datalumina.com/data-freelancer)
 
 3. **Need expert help on your next project?**  
    Work with me and my team to solve your data and AI challenges:  
    [▶︎ Consulting Services](https://www.datalumina.com/solutions)
+   ▶︎ [Work with me](https://www.datalumina.com/solutions)
 
 This command creates a copy of `.env.example` and names it `.env`, allowing you to configure your environment variables specific to your setup.
 
@@ -76,3 +77,4 @@ This command creates a copy of `.env.example` and names it `.env`, allowing you 
 4. **Building AI-powered applications?**  
    Access the **GenAI Launchpad** to accelerate your AI app development:  
    [▶︎ GenAI Launchpad](https://launchpad.datalumina.com/)
+   ▶︎ [Explore the GenAI Launchpad](https://launchpad.datalumina.com/)
