@@ -1,8 +1,11 @@
 requests
 ipykernel
+ipywidgets
 python-dotenv
 openai
 pydantic
 google-api-python-client 
 google-auth-httplib2 
 google-auth-oauthlib
+huggingface_hub
+pylance
